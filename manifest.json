@@ -1,0 +1,12 @@
+{
+    "latest-launcher-version":"0.1",
+    "games": {
+        "modded-gulag-reborn-1": {
+            "name":"Modded Gulag Reborn",
+            "game-version": "1.21.1",
+            "modpack-version": "0.1 BETA",
+            "configs-link": "",
+            "modlist-link": ""
+        }
+    }
+}
