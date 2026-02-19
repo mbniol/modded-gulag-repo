@@ -5,7 +5,9 @@
             "name":"Modded Gulag Reborn",
             "game_version": "1.21.1",
             "modpack_version": "0.1 BETA",
-            "download_link":""
+            "download_link":"",
+			"engine_link":"https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.219/neoforge-21.1.219-installer.jar",
+			"engine_name":"neoforge-21.1.219"
         }
     }
 }
